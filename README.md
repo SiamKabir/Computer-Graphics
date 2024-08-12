@@ -1,0 +1,1 @@
+Having mastered the basics of computer graphics with CodeBlocks and C++, it's time to delve deeper into the intricate world of visual creation. This course will expand on your programming skills and artistic vision, equipping you to craft sophisticated and immersive digital experiences.
